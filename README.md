@@ -24,9 +24,8 @@ This Project is all about Ingesting Global Aviation data to GCP BigQuery in real
 ```
 ## Installation Steps
 <b>1.</b>For running Dataflow We need to install Java Jdk 8 on the master node. For that we are making use of GCS Bucket to hold the JDk 8 Package and installing the dependency at run time on the master Node.<br>
-<b>2.</b>We are making use of <b> Setup.py </b> file to pass on the list of all the dependency that needs to be installed at run time on the worker nodes.
-A better production approach could be to make a custom container having all the required dependency installed and will be provided to the dataflow job at run time which will increases the job efficiency as need to install dependency seprately on each worker node during up scalling will vanquish. <br>
-<b>3.</b>For security purpose we are making use of Gcp Secret Manager to hold the SAP HANA Login Credentials and are fetching them at run time.<br>
+<b>2.</b> <br>
+<b>3.</b>For security purpose we are making use of Gcp Secret Manager to hold the Aviation Access API and are fetching them at run time.<br>
 <b>4.</b>We are holding the Schema of Big Query Tables as json in GCS Bucket and fetching them at run time.<br>
 
 
