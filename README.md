@@ -28,5 +28,6 @@ This Project is all about Ingesting Global Aviation data to GCP BigQuery in real
 <b>3.</b> Then we need to run the pubsub_aviation.py script as it will publish the json Paylod from aviation API to the Pub/Sub topic. we have defined a sleep timer of 10 seconds in the code.<br>
 <b>4.</b>For security purpose we are making use of Gcp Secret Manager to hold the Aviation Access API and are fetching them at run time.<br>
 <b>5.</b>We are holding the Schema of Big Query Tables in our dataflow pipeline code.<br>
+<b>6.</b> Data from Bigquery is ingested to looker studio and insights are generated with some KPIs. <br>
 
 
