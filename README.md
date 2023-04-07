@@ -1,4 +1,4 @@
-# Aviation_real_time_streaming
+# Aviation Real Time Streaming
 
 ## About
 This Project is all about Ingesting Global Aviation data to GCP BigQuery in real time using cloud Pub/Sub and Google Cloud Dataflow and building Analytical Dashboards in looker studio from the Data stored in BigQuery in real time.
