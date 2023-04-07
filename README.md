@@ -12,7 +12,7 @@ This Project is all about Ingesting Global Aviation data to GCP BigQuery in real
 
 ## Architecture Diagram
 
-<img src ="https://github.com/choco30/Sap_Hana_To_Big_Query_Ingestion/blob/main/SAP%20To%20Big%20Query%20architecture%20Diagram.png" width="900" height="900" alt="Python"/> &emsp;
+<img src ="https://github.com/sandy0298/Aviation_real_time_streaming/blob/main/aviation_data_final.png" width="900" height="900" alt="Python"/> &emsp;
 
 ### Code structure
 ```
