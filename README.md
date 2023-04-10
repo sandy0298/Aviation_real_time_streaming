@@ -12,7 +12,7 @@ This Project is all about Ingesting Global Aviation data to GCP BigQuery in real
 
 ## Link to Dashboard
 
-https://lookerstudio.google.com/u/0/reporting/4c487613-3c78-4611-83ab-1b1107b90f47/page/tEnnC
+https://lookerstudio.google.com/s/q5RAqwrPiAQ
 
 ## Architecture Diagram
 
