@@ -10,6 +10,11 @@ This Project is all about Ingesting Global Aviation data to GCP BigQuery in real
 <img src ="https://cxl.com/wp-content/uploads/2019/10/google-bigquery-logo-1.png" width="170" height="100" alt="Google Big Query"/> &emsp;
 <img src ="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png" width="170" height="100" alt="Python"/> &emsp;
 
+## Dashboard
+
+<img src = "https://github.com/sandy0298/Aviation_real_time_streaming/blob/main/images/report1.jpg" width="800" height="600" alt="report1"/> &emsp;
+<img src ="https://github.com/sandy0298/Aviation_real_time_streaming/blob/main/images/report2.jpg" width="800" height="600" alt="report2"/> &emsp;
+
 ## Link to Dashboard
 
 https://lookerstudio.google.com/s/q5RAqwrPiAQ
