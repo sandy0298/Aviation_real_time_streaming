@@ -21,7 +21,7 @@ https://lookerstudio.google.com/s/iRXz4_vp9ns
 
 ## Architecture Diagram
 
-<img src ="https://github.com/sandy0298/Aviation_real_time_streaming/blob/main/aviation_arch.png" width="800" height="600" alt="architecture"/> &emsp;
+<img src ="https://github.com/sandy0298/Aviation_real_time_streaming/blob/main/aviation_data_final.png" width="800" height="600" alt="architecture"/> &emsp;
 
 ### Code structure
 ```
